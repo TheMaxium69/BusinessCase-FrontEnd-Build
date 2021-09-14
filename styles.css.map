@@ -1,0 +1,1 @@
+{"version":3,"sources":["./src/styles.css"],"names":[],"mappings":"AAAA,8EAA8E;AAC9E;EACE,yBAAyB;AAC3B","file":"styles.css","sourcesContent":["/* You can add global styles to this file, and also import other style files */\nbody{\n  background-color: #E5E5E5;\n}\n"],"sourceRoot":"webpack:///"}
